@@ -7,8 +7,8 @@
         
  }
   .cabecalho{ 
-    background-color:#3B0050;
-     color: white;
+    background-color:#1a5f8d;
+     color: red;
       display:flex;
        justify-content: space-around;
         align-items: center;
